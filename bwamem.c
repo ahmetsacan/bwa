@@ -24,6 +24,8 @@
    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 */
+// Ahmet added this comment.
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
